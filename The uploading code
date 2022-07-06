@@ -1,3 +1,5 @@
+## In the firstly daowload Arduino IDE (https://www.arduino.cc/en/software),with this we can upload the code
+
 char t;
  
 void setup() {
