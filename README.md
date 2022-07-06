@@ -14,6 +14,9 @@ This  project works like the following:
 # Jumper wires (![image](https://user-images.githubusercontent.com/105424030/177515750-38451fe1-901a-49a7-8645-39b4009de79b.png))
 # Bread-board (![image](https://user-images.githubusercontent.com/105424030/177516656-e48c1376-dc74-4572-b9a0-57387f64ec9f.png))
 ## we need also the chassis(![image](https://user-images.githubusercontent.com/105424030/177516423-60b8379e-d31c-4125-9c07-7d2bdfc36479.png)) for me i build this (![WhatsApp Image 2022-06-06 at 1 20 09 AM](https://user-images.githubusercontent.com/105424030/177521319-385edbcc-61fc-4272-8c84-473251ae476e.jpeg))
-# The basic circuit of the project (![WhatsApp Image 2022-06-06 at 11 16 01 AM](https://user-images.githubusercontent.com/105424030/177520740-5e06880f-8801-4a8e-a7e9-02fd11d0e71a.jpeg)), 
-The first implantation (![image](https://user-images.githubusercontent.com/105424030/177522069-f8776b6b-4614-4b96-8b1e-c825bb6d7e91.png)),
+# The basic circuit of the project (![WhatsApp Image 2022-06-06 at 11 16 01 AM](https://user-images.githubusercontent.com/105424030/177520740-5e06880f-8801-4a8e-a7e9-02fd11d0e71a.jpeg))
+The first implantation (![image](https://user-images.githubusercontent.com/105424030/177522069-f8776b6b-4614-4b96-8b1e-c825bb6d7e91.png))
+![image](https://user-images.githubusercontent.com/105424030/177523221-49c44384-840a-4b66-bef6-3c68cf11c3ce.png)
+![image](https://user-images.githubusercontent.com/105424030/177523678-4baf450f-7be0-4aad-8743-efa0407af138.png)
+![image](https://user-images.githubusercontent.com/105424030/177523734-429b4bad-423a-4e2c-b3e3-c014255a0ad9.png)
 The end implantation (![image](https://user-images.githubusercontent.com/105424030/177522723-1764880e-d762-42c8-876e-30a5fa41e91f.png))
